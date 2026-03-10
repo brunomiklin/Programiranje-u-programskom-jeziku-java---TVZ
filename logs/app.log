@@ -1,0 +1,4 @@
+2026-02-15 23:39:29,618 WARN [main] error log
+2026-02-15 23:39:29,623 INFO [main] warn log
+2026-02-15 23:39:29,623 ERROR [main] info log
+2026-02-15 23:39:29,623 DEBUG [main] trace log
